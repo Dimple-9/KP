@@ -22,7 +22,9 @@
 .card {
     box-shadow: 0 0 3px, black;
 }
-
+.card{
+    height: 720px;
+}
 .card-img {
     width: 100%;
     display: block;
